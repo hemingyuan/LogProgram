@@ -1,0 +1,51 @@
+2018/05/25 14:42:06.907 [D] init log module success
+2018/05/25 14:42:06.912 [D] init kafka client success
+2018/05/25 14:42:06.920 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 14:42:06.921 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 14:42:06.930 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 14:42:06.931 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 14:42:06.931 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 14:42:06.931 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 14:42:06.932 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 14:42:06.942 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 14:42:06.942 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 14:42:06.943 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:28:59.034 [D] init log module success
+2018/05/25 16:28:59.158 [D] init kafka client success
+2018/05/25 16:28:59.321 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:28:59.421 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:28:59.421 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:28:59.421 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:28:59.421 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:28:59.421 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:28:59.425 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:28:59.442 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:28:59.442 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:28:59.442 [D] send message to kafka success. msg: this is kafka clent test
+2018/05/25 16:40:29.338 [D] init log module success
+2018/05/25 16:40:29.358 [D] init kafka client success
+2018/05/25 16:40:48.475 [D] send message to kafka success. msg: nihaoya
+2018/05/25 16:40:48.475 [D] send message to kafka success. msg: this is in test.log
+2018/05/25 16:40:48.479 [D] send message to kafka success. msg: this is in test.log
+2018/05/25 16:40:48.479 [D] send message to kafka success. msg: nihaoya
+2018/05/25 16:40:48.479 [D] send message to kafka success. msg: nihaoya
+2018/05/25 16:40:48.479 [D] send message to kafka success. msg: this is in test.log
+2018/05/25 16:40:48.485 [D] send message to kafka success. msg: nihaoya
+2018/05/25 16:40:48.485 [D] send message to kafka success. msg: this is in test.log
+2018/05/25 16:42:44.264 [D] send message to kafka success. msg: asdasdsadasdasdasd
+2018/05/25 16:43:05.454 [D] send message to kafka success. msg: adasdasdasdasd
+2018/05/25 16:43:05.470 [D] send message to kafka success. msg: asdasdasdasd
+2018/05/25 16:43:05.470 [D] send message to kafka success. msg: asdasdasd
+2018/05/25 17:14:24.926 [I] init log module success
+2018/05/25 17:14:24.934 [I] init kafka client success
+2018/05/25 17:15:44.758 [D] send message to kafka success. msg: asdasdasd
+2018/05/25 17:15:44.758 [D] send message to kafka success. msg: asdasdasd
+2018/05/25 17:15:44.780 [D] send message to kafka success. msg: asdasdasdasd
+2018/05/25 17:15:44.780 [D] send message to kafka success. msg: adasdasdasdasd
+2018/05/25 17:15:44.780 [D] send message to kafka success. msg: asdasdasdasd
+2018/05/25 17:15:44.780 [D] send message to kafka success. msg: adasdasdasdasd
+2018/05/25 17:16:05.283 [D] send message to kafka success. msg: asdasdad
+2018/05/25 17:16:05.286 [D] send message to kafka success. msg: qqqqqqqqq
+2018/05/25 17:16:05.286 [D] send message to kafka success. msg: asdsdsadasd
+2018/05/25 17:16:05.286 [D] send message to kafka success. msg: asdasdadda
+2018/05/25 17:16:16.778 [D] send message to kafka success. msg: asdasdasdasdasdasdsad
